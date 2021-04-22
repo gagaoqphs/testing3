@@ -6,6 +6,9 @@ import telegram.ext as tg
 from telethon import TelegramClient
 
 StartTime = time.time()
+CMD_LIST = {}
+CMD_HELP = {}
+LOAD_PLUG = {}
 
 # enable logging
 logging.basicConfig(
