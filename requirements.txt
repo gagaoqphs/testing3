@@ -67,3 +67,4 @@ pymongo
 pykeyboard
 spamwatch
 redis
+PIL
