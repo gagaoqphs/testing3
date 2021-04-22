@@ -1,6 +1,6 @@
 from tg_bot import CMD_HELP
 from tg_bot.events import register
-from tg_bot import tbot, OWNER_ID
+from tg_bot import oko, OWNER_ID
 import os
 from PIL import Image, ImageDraw, ImageFont
 
