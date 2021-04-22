@@ -1,6 +1,6 @@
-from Ayaka import CMD_HELP
-from Ayaka.events import register
-from Ayaka import tbot, OWNER_ID
+from tg_bot import CMD_HELP
+from tg_bot.events import register
+from tg_bot import tbot, OWNER_ID
 import os
 from PIL import Image, ImageDraw, ImageFont
 
